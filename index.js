@@ -4,9 +4,9 @@ const app = express();
 const PORT = 3000;
 
 app.get("/", (req, res) => {
-  res.send("Trend app is running successfully 🚀");
+  res.send("Trend Store Updated Version 1");
 });
 
 app.listen(PORT, "0.0.0.0", () => {
-  console.log(`Server running on http://0.0.0.0:${PORT}`);
+  console.log("Trend Store Updated Version 1");
 });
