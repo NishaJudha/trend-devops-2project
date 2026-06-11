@@ -1,0 +1,26 @@
+{
+  "name": "trend",
+  "version": "1.0.0",
+  "description": "DevOps Practice Project – Dist Directory",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "echo \"Build step completed\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vennilavanguvi/Trend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Vennilavanguvi/Trend/issues"
+  },
+  "homepage": "https://github.com/Vennilavanguvi/Trend#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
